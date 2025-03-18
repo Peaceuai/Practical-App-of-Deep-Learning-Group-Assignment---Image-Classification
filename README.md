@@ -19,11 +19,11 @@ Click on the code to execute the program in colab and run it all
 
  The below picture is about the train line
  
-![image13](https://github.com/user-attachments/assets/418ad8fe-a19d-48db-9a22-24ff8ab0b77b)
+ ![image13](https://github.com/user-attachments/assets/64f10423-7588-4ec1-bf60-ec9a860bfdd9)
 
  The below picture is about the predict result
  
-![image15](https://github.com/user-attachments/assets/b51c7e04-7c38-4e12-ba81-374faa0538d8)
+ ![image15](https://github.com/user-attachments/assets/bc2a4087-d63b-47f2-ac1f-ae05b787e9c7)
 
 ## Reference
 
